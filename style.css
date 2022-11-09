@@ -1,0 +1,19 @@
+#body{
+    background-color: darkmagenta;
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border:2px dashed black;
+}
+
+#result{
+    width: 350px;
+    height: 300px;
+    border:2px dashed black;
+}
+
+#mainheading{
+    font-family: Comic ;
+}
